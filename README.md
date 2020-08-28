@@ -10,3 +10,8 @@ Currently, we have done the following:
 3. We use a deep and wide neural network architecture (https://arxiv.org/abs/1606.07792) which includes interaction between user and book to predict the rating score.
 
 4. Our proposed model improve the mse from 2.6 to 1.2.
+
+
+Next to do:
+1. user part of speech tag to extract all adjectives in reviews
+2. use topic modeling to see patterns exist in different books and detect whether there's group of semantics
